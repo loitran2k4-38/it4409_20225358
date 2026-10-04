@@ -60,6 +60,6 @@ python3 -m http.server 8000
 
 ## Còn là dữ liệu mẫu
 
-- Tên giảng viên và tỉ lệ đánh giá (phần môn học)
+- Tỉ lệ đánh giá (phần môn học)
 - Nội dung phần "Giới thiệu bản thân" và danh sách kỹ năng
 - Trạng thái bài tập và giá trị `value` của thẻ `<progress>` — cần cập nhật sau mỗi bài
