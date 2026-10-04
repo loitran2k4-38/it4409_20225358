@@ -9,16 +9,15 @@ Trang giới thiệu cá nhân viết bằng **HTML5 + CSS3 thuần**, không d�
 ### Cấu trúc
 
 ```
-it4409/
+it4409_20225358/
 ├── assets/
 │   ├── script.js   # JS tăng cường (trang vẫn chạy đủ nếu tắt JS)
 │   └── style.css   # Toàn bộ style
-├── CNAME           # Tên miền tùy chỉnh cho GitHub Pages
 ├── README.md
 └── index.html      # Trang chính
 ```
 
-Trang được xuất bản tại **https://loitran.id.vn** qua GitHub Pages.
+Trang được xuất bản tại **https://loitran2k4-38.github.io/it4409_20225358/** qua GitHub Pages.
 
 ### Cách chạy
 
@@ -54,7 +53,7 @@ python3 -m http.server 8000
 | | |
 |---|---|
 | Họ tên | Trần Bá Lợi |
-| MSSV | 20225357 |
+| MSSV | 20225358 |
 | Lớp | Kỹ thuật máy tính 05 |
 | Khóa | K67 |
 | Email | loi.tb225358@sis.hust.edu.vn |
